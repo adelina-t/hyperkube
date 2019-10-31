@@ -1,0 +1,19 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+aliases:
+  sig-release-leads:
+    - calebamiles
+    - justaugustus
+    - tpepper
+  release-engineering:
+    - aleksandra-malinowska # Patch Release Team
+    - calebamiles # subproject owner
+    - dougm # Patch Release Team
+    - feiskyer # Patch Release Team
+    - hoegaarden # Patch Release Team
+    - idealhack # Patch Release Team
+    - justaugustus # subproject owner
+    - tpepper # subproject owner / Patch Release Team
+  branch-managers:
+    - bubblemelon
+    - justaugustus
