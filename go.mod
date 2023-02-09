@@ -28,13 +28,11 @@ replace (
 
 require (
 	github.com/NYTimes/gziphandler v1.1.1 // indirect
-	github.com/creack/pty v1.1.9 // indirect
-	github.com/emicklei/go-restful v2.10.0+incompatible // indirect
+	github.com/emicklei/go-restful v2.16.0+incompatible // indirect
 	github.com/ghodss/yaml v1.0.0 // indirect
 	github.com/go-openapi/jsonreference v0.19.3 // indirect
 	github.com/go-openapi/spec v0.19.3 // indirect
 	github.com/googleapis/gnostic v0.3.1 // indirect
-	github.com/kr/pty v1.1.8 // indirect
 	github.com/mailru/easyjson v0.7.0 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20190414153302-2ae31c8b6b30 // indirect
 	github.com/onsi/ginkgo v1.10.2 // indirect
